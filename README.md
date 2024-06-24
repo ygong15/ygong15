@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0274.gif">
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0274.gif" width="800px">
 
 <!--h1 without bottom border-->
 
