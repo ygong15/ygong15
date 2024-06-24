@@ -20,7 +20,7 @@
 - :trophy: 2x `Scholarship` from USC where I obtained my `B.S.` in `Cybersecurity` and my minors in `Computer Science` and `Game Programming`
 - :technologist: **Currently working on** `Backend Development` **&** `Game Programming`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YuchenGong&amp;color=EA4335&amp;style=flat-square)](mailto:yuchengong15@gmail.com)
-- :tennis: Always believe `"Step by step, the longest march can be won"`
+- :smiley: Always believe `"negative energy is wasted energy"`
 
 <br>
 
