@@ -19,7 +19,7 @@
 - :school: I am a `1st year grad student` at [Jacob School of Engineering]([https://cst.buaa.edu.cn/](https://cse.ucsd.edu/)) in [UCSD](https://ucsd.edu/)
 - :trophy: 2x `Scholarship`from USC where I obtained by `B.S.` in `Cybersecurity`
 - :technologist: **Currently working on** `Backend Development` **&** `Game Programming`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](yuchengong15@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YuchenGong&amp;color=EA4335&amp;style=flat-square)](yuchengong15@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
