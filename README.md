@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 
@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width = 300px></picture>
 
 - :school: I am a `1st year grad student` at [Jacob School of Engineering]([https://cst.buaa.edu.cn/](https://cse.ucsd.edu/)) in [UCSD](https://ucsd.edu/)
 - :trophy: 2x `Scholarship`from USC where I obtained by `B.S.` in `Cybersecurity`
