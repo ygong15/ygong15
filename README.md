@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width = 300px></picture>
 
-- :school: I am a `grad student` in Computer Science at [Jacob School of Engineering]([https://cst.buaa.edu.cn/](https://cse.ucsd.edu/)) at [UCSD](https://ucsd.edu/)
+- :school: I am a `grad student` in Computer Science at [UCSD](https://ucsd.edu/)
 - :trophy: 2x `Scholarship` from USC where I obtained my `B.S.` in `Cybersecurity` and my minors in `Computer Science` and `Game Programming`
 - :technologist: **Currently working on** `Backend Development` **&** `Game Programming`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YuchenGong&amp;color=EA4335&amp;style=flat-square)](mailto:yuchengong15@gmail.com)
