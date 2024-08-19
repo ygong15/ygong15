@@ -15,7 +15,7 @@
 
 - :school: I am a `grad student` in Computer Science at [UCSD](https://cse.ucsd.edu/)
 - :trophy: 2x `Scholarship` from [USC](https://itp.usc.edu/) where I obtained my `Bachelor's degree` in `Cybersecurity` and my minors in `Computer Science` and `Game Programming`
-- :technologist: **Currently working on** `Backend Development` **&** `Game Programming`
+- :technologist: **Currently working on** `Backend Development` **&** `Game Programming` @ `Tencent Games`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=YuchenGong&amp;color=EA4335&amp;style=flat-square)](mailto:yuchengong15@gmail.com)
 - :smiley: Always believe `"negative energy is wasted energy"`
 
